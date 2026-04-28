@@ -50,7 +50,7 @@ Projeto desenvolvido com foco em apresentar minhas habilidades como desenvolvedo
 ## 🐍 Contribuições
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gustavo-machado26/gustavo-machado26/output/github-contribution-grid-snake.svg" alt="Animação de contribuições" />
+  <img src="https://raw.githubusercontent.com/gustavo-machado264/gustavo-machado26/output/github-contribution-grid-snake.svg" alt="Animação de contribuições" />
 </p>
 
 ---
@@ -58,8 +58,8 @@ Projeto desenvolvido com foco em apresentar minhas habilidades como desenvolvedo
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gustavo-machado26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-machado26&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gustavo-machado264&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-machado264&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -67,7 +67,7 @@ Projeto desenvolvido com foco em apresentar minhas habilidades como desenvolvedo
 ## 🔥 Consistência de Contribuições
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=gustavo-machado26&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  <img src="https://streak-stats.demolab.com?user=gustavo-machado264&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </p>
 
 <p align="center">
