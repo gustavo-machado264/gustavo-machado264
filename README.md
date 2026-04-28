@@ -1,4 +1,4 @@
-# 🚀 Gustavo Machado
+# Gustavo Machado
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=D72638&size=30&center=true&vCenter=true&width=700&lines=👋+Bem-vindo+ao+meu+GitHub!;🚀+Desenvolvedor+Web+em+evolução;💻+Criando+Soluções+Reais;🔥+Foco+em+SaaS+e+Negócios+Digitais" />
@@ -8,9 +8,11 @@
 
 ## 💻 Sobre mim
 
-Sou estudante de desenvolvimento web no SENAI, focado em construir projetos reais com design moderno e funcionalidades úteis.
+Sou desenvolvedor web focado na criação de interfaces modernas e sistemas funcionais voltados para soluções reais.
 
-Atualmente estou evoluindo de front-end para desenvolvimento de sistemas completos (SaaS), com foco em resolver problemas de negócios e gerar valor no mercado digital.
+Atualmente estou evoluindo de front-end para o desenvolvimento de aplicações completas (SaaS), com foco em otimização de processos, análise de dados e geração de valor para negócios digitais.
+
+Busco transformar ideias em produtos digitais úteis, com foco em performance, usabilidade e resultados.
 
 ---
 
@@ -26,11 +28,14 @@ Atualmente estou evoluindo de front-end para desenvolvimento de sistemas complet
 ---
 
 ### 🌐 Portfólio Web Interativo
-- Interface moderna  
-- Animações avançadas  
-- Experiência do usuário otimizada  
 
-🔗 Em desenvolvimento
+Projeto desenvolvido com foco em apresentar minhas habilidades como desenvolvedor de forma visual, moderna e interativa.
+
+- Interface responsiva e adaptável a diferentes dispositivos  
+- Animações suaves para melhorar a experiência do usuário  
+- Estrutura organizada com foco em performance e usabilidade  
+
+🔗 https://gustavo-machado264.github.io/meu-portifolio/
 
 ---
 
@@ -45,7 +50,7 @@ Atualmente estou evoluindo de front-end para desenvolvimento de sistemas complet
 ## 🐍 Contribuições
 
 <p align="center">
-  <img src="https://github.com/SEU-USUARIO/SEU-USUARIO/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/gustavo-machado26/gustavo-machado26/output/github-contribution-grid-snake.svg" alt="Animação de contribuições" />
 </p>
 
 ---
@@ -53,18 +58,21 @@ Atualmente estou evoluindo de front-end para desenvolvimento de sistemas complet
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gustavo-machado26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-machado26&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🔥 Atividade
+## 🔥 Consistência de Contribuições
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU-USUARIO&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=gustavo-machado26&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </p>
 
+<p align="center">
+  <i>Frequência de contribuições e disciplina no desenvolvimento</i>
+</p>
 ---
 
 ## 📈 Objetivo
@@ -76,7 +84,7 @@ Construir soluções digitais que gerem valor real e alcançar independência fi
 ## 📫 Contato
 
 <p align="center">
-  <a href="mailto:seuemail@email.com">
+  <a href="mailto:britomachadogustavo.com">
     <img src="https://img.shields.io/badge/Email-D72638?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
@@ -89,8 +97,3 @@ Construir soluções digitais que gerem valor real e alcançar independência fi
   </a>
 </p>
 
----
-
-## ⚡ Frase
-
-> "Não estou apenas aprendendo programação — estou construindo ativos digitais."
