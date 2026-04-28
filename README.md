@@ -50,16 +50,15 @@ Projeto desenvolvido com foco em apresentar minhas habilidades como desenvolvedo
 ## 🐍 Contribuições
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gustavo-machado264/gustavo-machado26/output/github-contribution-grid-snake.svg" alt="Animação de contribuições" />
+  <img src="https://raw.githubusercontent.com/gustavo-machado264/gustavo-machado264/output/github-contribution-grid-snake.svg" alt="Animação de contribuições" />
 </p>
-
 ---
 
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gustavo-machado264&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-machado264&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gustavo-machado264&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-machado264&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </p>
 
 ---
