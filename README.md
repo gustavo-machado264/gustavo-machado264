@@ -56,7 +56,7 @@ Projeto desenvolvido com foco em apresentar minhas habilidades como desenvolvedo
 
 ## 📊 Estatísticas
 
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=gustavo-machado264&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-machado264&layout=compact&theme=tokyonight&hide_border=true" /> </p>
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=gustavo-machado264&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-machado264&layout=compact&theme=tokyonight&hide_border=true" /> </p>
 
 ---
 
